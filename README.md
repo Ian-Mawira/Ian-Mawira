@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Ian Mawira
 
-<!--
-**Ian-Mawira/Ian-Mawira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a Communications and PR student with a strong interest in tech, digital media, and freelancing. Currently exploring web design, content creation, and using platforms like GitHub to expand my skills!
 
-Here are some ideas to get you started:
+### Skills
+- **Web Design**: Canva, WordPress
+- **Content Creation**: Blogging, social media, and digital marketing
+- **Projects**: [Freelance Hustle Blog](frelancehustleblog.wordpress.com) | Gen Z Revolution Movie (in progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect!
+- LinkedIn: [Ian Mawira](www.linkedin.com/in/ian-mawira-874aba239)
+- ORCID: [Ian's ORCID Profile](https://orcid.org/0009-0005-9614-7043)
+- Blog: [Freelance Hustle](frelancehustleblog.wordpress.com)
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you’d like to collaborate.
